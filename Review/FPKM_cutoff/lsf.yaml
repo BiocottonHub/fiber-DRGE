@@ -1,0 +1,5 @@
+HomoeologousBias:
+  - "-q short"
+  - "-M 10Gb"
+  - "-n 1"
+  - "-R rusage[mem=10GB]"

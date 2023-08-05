@@ -1,0 +1,3 @@
+[submodule "eQTL_pipeline"]
+	path = eQTL_pipeline
+	url = git@github.com:zpliu1126/eQTL_pipeline.git
